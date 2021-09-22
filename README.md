@@ -4,7 +4,7 @@
 - 👋 Hi, currently learning: <b>Machine Learning</b>
 - 👀 I’m interested in:- <b>Data Science</b>
 - 🌱 I’m currently Working as: <b>Python-Odoo Developer</b>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/omprakash-kumar/" target="_blank">Linkedln,</a><a href="omprakashopj90@gmail.com">Send email</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/omprakash-kumar/" target="_blank">Linkedln,</a><a href="https://mail.google.com/mail/u/0/?view=cm&amp;fs=1&amp;to=omprakashopj90@com.com&amp;su=SUBJECT&amp;body=BODY&amp;tf=1" rel="nofollow">Mail</a>
 
 
 <!---
