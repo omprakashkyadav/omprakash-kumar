@@ -1,8 +1,8 @@
 
 Hi I'm Omprakash Yadav
 
-- 👋 Hi, currently learning: Flask, Django
-- 👀 I’m interested in:- MACHINE Learning
+- 👋 Hi, currently learning: Machine Learning
+- 👀 I’m interested in:- Data Science
 - 🌱 I’m currently Working as: Python-Odoo Developer
 - 📫 How to reach me: https://www.linkedin.com/in/omprakash-kumar/
 
