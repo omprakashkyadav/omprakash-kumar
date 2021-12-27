@@ -1,5 +1,5 @@
 
-<b style="color:red; font-size:30px;">Hi I'm Omprakash Yadav</b>
+<b style="color:red; font-size:30px;">Hi I'm Omprakash Kumar</b>
 
 - 👋 Hi, currently learning: <b>Machine Learning</b>
 - 👀 I’m interested in:- <b>Data Science</b>
